@@ -1,0 +1,99 @@
+.index{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEx4Izi0oOEEcEue7Lw_4Nnxu3euVxVpEhrUxACLKPSyelVZ91");
+background-size: cover;
+}
+.loginform{
+width:960px;
+margin:20px auto;
+padding-top:20px;
+font-family: 'Fauna One', serif;
+
+}
+#form{
+border-radius:2px;
+padding:120px 120px;
+box-shadow:0 0 15px;
+font-size:14px;
+font-weight:bold;
+width:350px;
+margin:10px 270px 0 150px;
+float:left;
+/*background-color: cornsilk;*/
+background-image: url("https://s-media-cache-ak0.pinimg.com/originals/b2/66/75/b26675ea29118bbfbb98763528420d96.jpg");
+background-size: cover;
+
+}
+
+button{
+	margin-top: 10px;
+}
+#btn1{
+    width: 40%;
+    margin-left: 15px;
+    height: 30px;
+}
+#btn2{
+	width: 40%;
+    margin-left: 50px;
+    height: 30px;
+}
+input{
+width:100%;
+height:35px;
+margin-top:5px;
+border:1px solid #999;
+border-radius:3px;
+padding:5px;
+margin-bottom: 20px;
+}
+input[type=button]{
+background-color:#123456;
+border:1px solid white;
+font-family: 'Fauna One', serif;
+font-weight:bold;
+font-size:18px;
+color:white;
+}
+textarea{
+width:100%;
+height:80px;
+margin-top:5px;
+border-radius:3px;
+padding:5px;
+resize:none;
+}
+.text-center{
+	text-align: center;
+	color: lightsalmon;
+}
+.word-counter{
+	width: 50%;
+	margin-left: 25%;
+}
+.datepicker{
+	width: 40%;
+	margin-left: 30%;
+}
+.tabs-jquery{
+	width: 50%;
+	margin-left: 26%;
+	/*border:2px solid lightgrey;*/
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+.background-red{
+	background-color: khaki;
+}
+.background-white{
+	background: lightcyan;
+}
+.btn{
+	margin-left: 45%;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	height: 30px;
+	background-color: greenyellow;
+}
